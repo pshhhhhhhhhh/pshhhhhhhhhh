@@ -1,4 +1,4 @@
-### ([https://github.com/GiyeonHwang/5ver-clock](https://github.com/5ver-clock/5ver-clock)) ReactNative Project (리포지토리 설정을 잘못해서 적어놓음)
+### ([https://github.com/GiyeonHwang/5ver-clock](https://github.com/5ver-clock/5ver-clock)) ReactNative 동물 커뮤니티 Project
 <!--
 **pshhhhhhhhhh/pshhhhhhhhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
